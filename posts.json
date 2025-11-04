@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "titulo": "sobre a brevidade da vida",
+        "autor": "Eduardo Ramalho",
+        "conteudo": "O maior obstáculo à vida é a expectativa, que fica na dependência do amanhã e perde o momento presente. Brevíssima e demasiado angustiosa é a vida daqueles que se esquecem do passado, negligenciam o presente e temem o futuro."
+    },
+    {
+        "id": 2,
+        "titulo": "sobre a brevidade da vida",
+        "autor": "Eduardo Ramalho",
+        "conteudo": "O maior obstáculo à vida é a expectativa, que fica na dependência do amanhã e perde o momento presente. Brevíssima e demasiado angustiosa é a vida daqueles que se esquecem do passado, negligenciam o presente e temem o futuro."
+    },
+    {
+        "id": 3,
+        "titulo": "O que podemos controlar? Uma lição dos Estóicos",
+        "autor": "Sêneca",
+        "conteudo": "Em meio ao caos da vida diária, a filosofia estóica nos oferece uma ferramenta poderosa: a distinção entre o que está e o que não está em nosso controle.  Não podemos controlar o clima, a opinião dos outros ou o passado. Mas podemos controlar nossas reações, nossas escolhas e nosso julgamento. A verdadeira paz não vem de um mundo perfeito, mas de uma mente bem ordenada."
+    },
+    {
+        "id": 4,
+        "titulo": "Amor Fati: Amando o próprio destino",
+        "autor": "Nietzsche",
+        "conteudo": "E se, em vez de apenas aceitar o que acontece, aprendêssemos a amar? Nietzsche chamou isso de \"Amor Fati\" — o amor ao destino.  Isso não significa ser passivo. Significa abraçar cada alegria, cada dor e cada desafio como parte essencial de quem somos. É olhar para a própria vida, com todos os seus erros e vitórias, e dizer: \"Sim, eu viveria tudo isso de novo.\""
+    },
+    {
+        "id": 5,
+        "titulo": "O Dilema do Porco-espinho",
+        "autor": "Schopenhauer",
+        "conteudo": "Num dia frio, um grupo de porcos-espinhos tentou se aproximar para se aquecer. Mas, ao chegarem perto, começaram a se ferir com seus próprios espinhos e tiveram que se afastar.  Assim é a necessidade humana de companhia. O frio da solidão nos impele a buscar os outros, mas os \"espinhos\" de nossas personalidades inevitavelmente causam dor. Encontrar a distância certa — onde não sofremos com o frio, nem com os espinhos — é a difícil arte de viver."
+    }
+]
