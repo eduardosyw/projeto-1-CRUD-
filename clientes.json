@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Eduardo Ramalho",
+        "email": "eduardosyw@gmail.com",
+        "telefone": "(69) 9 9297-1992",
+        "cidade": "Porto Velho",
+        "estado": "Rondônia"
+    },
+    {
+        "id": 2,
+        "nome": "monica ramalho",
+        "email": "monicaramalhotei14@gmail.com",
+        "telefone": "(69) 9 9297-1992",
+        "cidade": "Porto Velho",
+        "estado": "Rondônia"
+    }
+]
